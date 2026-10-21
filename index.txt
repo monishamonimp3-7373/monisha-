@@ -3,3 +3,5 @@ file name is index.txt
 heloo where are youi
 thid is change from demo to fearturegit
 this is feature 2.0
+this is second commit 
+for the git
